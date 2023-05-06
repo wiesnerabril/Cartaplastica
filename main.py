@@ -1,0 +1,2 @@
+from functions.cartadeplasticidad import carta_de_plasticidad
+carta_de_plasticidad(30,20)
